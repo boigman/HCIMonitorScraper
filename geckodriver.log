@@ -1,0 +1,550 @@
+1585945542923	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofile3mrBMi"
+1585945543603	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585945544269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585945544269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585945544275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585945544275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585945548747	Marionette	INFO	Listening on port 57441
+1585945549347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+[Parent 109112, Gecko_IOThread] WARNING: file z:/task_1583748103/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 109112, Gecko_IOThread] WARNING: file z:/task_1583748103/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript error: https://lacledegas.sysaidit.com/js/require.js, line 8: Error: Script error for: jquery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+1585945654806	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofileOQNqXm"
+1585946643661	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofile17ycV7"
+1585946644375	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585946645011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585946645011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585946645011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585946645011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585946648886	Marionette	INFO	Listening on port 59510
+1585946649121	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+1585946700099	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofilefS4sSP"
+1585946700890	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585946701602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585946701602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585946701602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585946701602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585946705794	Marionette	INFO	Listening on port 59645
+1585946706184	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+[Parent 111504, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 111504, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+1585946988209	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofilesfq0zu"
+1585946989489	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585946990439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585946990439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585946990440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585946990440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585946994994	Marionette	INFO	Listening on port 60121
+1585946995571	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585947156878	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofile05HvnK"
+1585947157596	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585947158230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585947158230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585947158230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585947158230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585947162230	Marionette	INFO	Listening on port 60453
+1585947162487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+[Parent 115028, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 115028, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+1585947318267	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofileS8xQKM"
+1585947318982	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585947319636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585947319636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585947319636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585947319636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585947323423	Marionette	INFO	Listening on port 60825
+1585947323736	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+[Parent 102692, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 102692, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+1585947372877	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofile7PRGm3"
+1585947373674	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585947374341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585947374341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585947374341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585947374341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585947378465	Marionette	INFO	Listening on port 61022
+1585947378943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+[Parent 100968, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 100968, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+1585947724250	Marionette	INFO	Stopped listening on port 61022
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585947499804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585947499805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585947499805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585947499805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585947504208	Marionette	INFO	Listening on port 61334
+1585947504460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+[Parent 114460, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 114460, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+1585947543652	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofileNzDtQ7"
+1585947544468	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585947545179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585947545179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585947545180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585947545180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585947549432	Marionette	INFO	Listening on port 61517
+1585947549709	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+[Parent 100688, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 100688, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+1585947737579	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofileupja0o"
+1585947738461	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585947739204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585947739204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585947739204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585947739204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585947744825	Marionette	INFO	Listening on port 61944
+1585947745505	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+[Parent 83920, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 83920, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3062:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3062:30
+
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+1585948016165	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofileHWxEM8"
+1585948017029	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585948017766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585948017767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585948017767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585948017767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585948022199	Marionette	INFO	Listening on port 62506
+1585948022235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+[Parent 114700, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 114700, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+1585948080594	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofileWmEm08"
+1585948081504	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585948082230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585948082230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585948082230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585948082230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585948086635	Marionette	INFO	Listening on port 62705
+1585948086691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+[Parent 109904, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 109904, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3062:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3062:30
+
+1585948155336	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofile7wCXkB"
+1585948156110	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585948156740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585948156740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585948156740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585948156740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585948160736	Marionette	INFO	Listening on port 62923
+1585948161094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+1585948372440	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofileSsb5Wo"
+1585948373274	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585948373994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585948373994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585948373994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585948373994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585948378305	Marionette	INFO	Listening on port 63352
+1585948378663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+[Parent 92664, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 92664, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3062:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3062:30
+
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+1585948573362	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofilexsbf2f"
+1585948574122	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585948574762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585948574762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585948574762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585948574762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585948578887	Marionette	INFO	Listening on port 63760
+1585948578944	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+1585948727919	Marionette	INFO	Stopped listening on port 63760
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585948666357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585948666358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585948666358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585948666358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585948670392	Marionette	INFO	Listening on port 63978
+1585948670429	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+1585948724869	Marionette	INFO	Stopped listening on port 63978
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585948739189	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofiledzdeSK"
+1585948740180	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585948741243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585948741243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585948741243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585948741243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585948746033	Marionette	INFO	Listening on port 64168
+1585948746449	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+1585949743991	Marionette	INFO	Stopped listening on port 64168
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585949452859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585949452859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585949452859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585949452859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585949456882	Marionette	INFO	Listening on port 65393
+1585949456998	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+[Parent 109452, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 109452, Gecko_IOThread] WARNING: file z:/task_1585897344/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+1585949753262	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofilewXncTD"
+1585949753966	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585949754590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585949754590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585949754590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585949754590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585949758600	Marionette	INFO	Listening on port 49550
+1585949758704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+1585950246403	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofiletsmXB7"
+1585950247091	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585950247752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585950247752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585950247752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585950247752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585950252046	Marionette	INFO	Listening on port 50784
+1585950252536	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+JavaScript error: https://lacledegas.sysaidit.com/js/require.js, line 8: Error: Script error for: main
+http://requirejs.org/docs/errors.html#scripterror
+1585950287576	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofileLg3KOF"
+1585950288324	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585950288955	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585950288955	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585950288956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585950288956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585950292901	Marionette	INFO	Listening on port 51010
+1585950293026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+1585950397416	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofileLnfG1f"
+1585950398125	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585950398746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585950398746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585950398746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585950398747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585950402858	Marionette	INFO	Listening on port 51211
+1585950402998	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+JavaScript error: https://lacledegas.sysaidit.com/js/require.js, line 8: Error: Script error for: main
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+1585951594781	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofile5F1VBZ"
+1585951595493	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585951596120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585951596120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585951596120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585951596120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585951600134	Marionette	INFO	Listening on port 52464
+1585951600338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+1585951701343	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofileeVyXcf"
+1585951702049	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585951702669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585951702670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585951702670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585951702670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585951706498	Marionette	INFO	Listening on port 52582
+1585951706809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+1585951792452	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\08925\\AppData\\Local\\Temp\\rust_mozprofilewBDbk1"
+1585951793182	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585951793911	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585951793912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585951793912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585951793912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585951797769	Marionette	INFO	Listening on port 52692
+1585951797899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+JavaScript error: resource:///actors/AboutReaderChild.jsm, line 95: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+s/
+1585951991915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585951995912	Marionette	INFO	Listening on port 52946
+1585951995960	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+JavaScript error: https://lacledegas.sysaidit.com/js/require.js, line 8: Error: Script error for: utils/config
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://lacledegas.sysaidit.com/js/require.js, line 8: Error: Script error for: views/app_view
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+JavaScript error: resource:///actors/AboutReaderChild.jsm, line 95: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+s/
+1585952299615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585952303887	Marionette	INFO	Listening on port 53406
+1585952304335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 224: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 230: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 555: unreachable code after return statement
+JavaScript warning: https://www.sysaid.com/wp-content/cache/autoptimize/js/autoptimize_f9f9484cf855485e7dd1831354a9663e.js, line 292: unreachable code after return statement
+JavaScript error: https://resources.clp.guru/cliclap-production-cdn/static/bootstrap-widget.min.js, line 8: TypeError: $ is not a function
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+JavaScript warning: https://lacledegas.sysaidit.com/combobox/js/jScrollPane.js?v20.1.60b32, line 110: unreachable code after return statement
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 105ms)
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
